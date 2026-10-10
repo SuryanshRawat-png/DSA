@@ -18,11 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryanshRawat-png/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0078-subsets](https://github.com/SuryanshRawat-png/DSA/tree/main/0078-subsets/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SuryanshRawat-png/DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0078-subsets](https://github.com/SuryanshRawat-png/DSA/tree/main/0078-subsets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SuryanshRawat-png/DSA/tree/main/0013-roman-to-integer/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/SuryanshRawat-png/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
