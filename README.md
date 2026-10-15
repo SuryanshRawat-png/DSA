@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0191-number-of-1-bits](https://github.com/SuryanshRawat-png/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/SuryanshRawat-png/DSA/tree/main/0078-subsets/) | Medium |
+| [0191-number-of-1-bits](https://github.com/SuryanshRawat-png/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
