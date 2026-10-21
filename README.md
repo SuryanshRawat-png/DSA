@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/SuryanshRawat-png/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/SuryanshRawat-png/DSA/tree/main/0078-subsets/) | Medium |
 | [0217-contains-duplicate](https://github.com/SuryanshRawat-png/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/SuryanshRawat-png/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SuryanshRawat-png/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0283-move-zeroes](https://github.com/SuryanshRawat-png/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SuryanshRawat-png/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
