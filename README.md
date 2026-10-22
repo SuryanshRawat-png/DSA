@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SuryanshRawat-png/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/SuryanshRawat-png/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/SuryanshRawat-png/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/SuryanshRawat-png/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/SuryanshRawat-png/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/SuryanshRawat-png/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 <!---LeetCode Topics End-->
