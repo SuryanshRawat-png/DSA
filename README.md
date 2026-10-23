@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SuryanshRawat-png/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/SuryanshRawat-png/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/SuryanshRawat-png/DSA/tree/main/0078-subsets/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryanshRawat-png/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/SuryanshRawat-png/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/SuryanshRawat-png/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SuryanshRawat-png/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryanshRawat-png/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SuryanshRawat-png/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryanshRawat-png/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/SuryanshRawat-png/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SuryanshRawat-png/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
