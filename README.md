@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryanshRawat-png/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/SuryanshRawat-png/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1122-relative-sort-array](https://github.com/SuryanshRawat-png/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/SuryanshRawat-png/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/SuryanshRawat-png/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [1122-relative-sort-array](https://github.com/SuryanshRawat-png/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,14 +74,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/SuryanshRawat-png/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/SuryanshRawat-png/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuryanshRawat-png/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1122-relative-sort-array](https://github.com/SuryanshRawat-png/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SuryanshRawat-png/DSA/tree/main/0075-sort-colors/) | Medium |
+| [1122-relative-sort-array](https://github.com/SuryanshRawat-png/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SuryanshRawat-png/DSA/tree/main/0075-sort-colors/) | Medium |
+| [1122-relative-sort-array](https://github.com/SuryanshRawat-png/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/SuryanshRawat-png/DSA/tree/main/0100-same-tree/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/SuryanshRawat-png/DSA/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
